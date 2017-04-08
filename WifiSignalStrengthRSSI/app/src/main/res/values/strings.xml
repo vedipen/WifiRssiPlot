@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wifi RSSI</string>
+    <string name="signal_strength_unknown">Signal Strength Unknown</string>
+    <string name="strength_unknown">Strength Unknown</string>
+    <string name="database">Database</string>
+    <string name="ssid_unknown">SSID Unknown</string>
+    <string name="wifi_rssi">Wifi RSSI</string>
+</resources>
